@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://android.googlesource.com/" name="aosp" review="https://android-review.googlesource.com/"/>
+  <remote fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/" name="aosp" review="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"/>
   <remote fetch="https://github.com/khadas/" name="github"/>
   
   <default remote="github" revision="refs/heads/Vim" sync-j="4"/>
